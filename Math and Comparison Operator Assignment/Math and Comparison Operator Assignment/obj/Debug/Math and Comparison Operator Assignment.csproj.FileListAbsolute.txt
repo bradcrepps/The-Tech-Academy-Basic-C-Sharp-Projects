@@ -1,0 +1,7 @@
+C:\Users\bradc\source\repos\Math and Comparison Operator Assignment\Math and Comparison Operator Assignment\bin\Debug\Math and Comparison Operator Assignment.exe.config
+C:\Users\bradc\source\repos\Math and Comparison Operator Assignment\Math and Comparison Operator Assignment\bin\Debug\Math and Comparison Operator Assignment.exe
+C:\Users\bradc\source\repos\Math and Comparison Operator Assignment\Math and Comparison Operator Assignment\bin\Debug\Math and Comparison Operator Assignment.pdb
+C:\Users\bradc\source\repos\Math and Comparison Operator Assignment\Math and Comparison Operator Assignment\obj\Debug\Math and Comparison Operator Assignment.csprojAssemblyReference.cache
+C:\Users\bradc\source\repos\Math and Comparison Operator Assignment\Math and Comparison Operator Assignment\obj\Debug\Math and Comparison Operator Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bradc\source\repos\Math and Comparison Operator Assignment\Math and Comparison Operator Assignment\obj\Debug\Math and Comparison Operator Assignment.exe
+C:\Users\bradc\source\repos\Math and Comparison Operator Assignment\Math and Comparison Operator Assignment\obj\Debug\Math and Comparison Operator Assignment.pdb
