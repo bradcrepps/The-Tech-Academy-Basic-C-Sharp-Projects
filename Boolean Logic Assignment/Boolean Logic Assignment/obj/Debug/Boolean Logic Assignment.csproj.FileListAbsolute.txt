@@ -1,0 +1,7 @@
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe.config
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.pdb
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csprojAssemblyReference.cache
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.exe
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.pdb
