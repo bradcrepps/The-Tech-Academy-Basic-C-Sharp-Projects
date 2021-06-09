@@ -1,0 +1,7 @@
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Comparison\Boolean Comparison\bin\Debug\Boolean Comparison.exe.config
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Comparison\Boolean Comparison\bin\Debug\Boolean Comparison.exe
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Comparison\Boolean Comparison\bin\Debug\Boolean Comparison.pdb
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Comparison\Boolean Comparison\obj\Debug\Boolean Comparison.csprojAssemblyReference.cache
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Comparison\Boolean Comparison\obj\Debug\Boolean Comparison.csproj.CoreCompileInputs.cache
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Comparison\Boolean Comparison\obj\Debug\Boolean Comparison.exe
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Boolean Comparison\Boolean Comparison\obj\Debug\Boolean Comparison.pdb
