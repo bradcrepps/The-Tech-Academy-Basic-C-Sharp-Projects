@@ -42,7 +42,8 @@ namespace Package_Express
             }
             else
             {
-                double total = dimensions * weight / 100;
+
+                double total = height * Width * length * weight / 100;
                 Console.WriteLine("Your total is: $" + total + " Thank you!");
             }
 
