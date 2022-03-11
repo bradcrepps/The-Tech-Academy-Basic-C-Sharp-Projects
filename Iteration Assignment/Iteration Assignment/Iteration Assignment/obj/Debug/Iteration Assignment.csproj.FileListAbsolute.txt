@@ -1,0 +1,7 @@
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Iteration Assignment\Iteration Assignment\Iteration Assignment\bin\Debug\Iteration Assignment.exe.config
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Iteration Assignment\Iteration Assignment\Iteration Assignment\bin\Debug\Iteration Assignment.exe
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Iteration Assignment\Iteration Assignment\Iteration Assignment\bin\Debug\Iteration Assignment.pdb
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Iteration Assignment\Iteration Assignment\Iteration Assignment\obj\Debug\Iteration Assignment.csprojAssemblyReference.cache
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Iteration Assignment\Iteration Assignment\Iteration Assignment\obj\Debug\Iteration Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Iteration Assignment\Iteration Assignment\Iteration Assignment\obj\Debug\Iteration Assignment.exe
+C:\Users\bradc\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\Iteration Assignment\Iteration Assignment\Iteration Assignment\obj\Debug\Iteration Assignment.pdb
